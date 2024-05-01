@@ -10,3 +10,8 @@ Prints postman:
 ![image](https://github.com/eliander1/crud_faculdade/assets/101966102/3eeef2be-3b75-4a63-9927-a038de26be37)
 
 ![image](https://github.com/eliander1/crud_faculdade/assets/101966102/432481de-56e6-4b9a-a0db-dcbb11b96558)
+
+
+Print estrutura de pastas
+
+![image](https://github.com/eliander1/crud_faculdade/assets/101966102/446422de-321d-4958-89b5-bb30c6443b30)
